@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [blog-app](https://blog-app-iota-woad-74.vercel.app/)
 
-- 🌱 I’m currently learning **React and React Native**
+- 🌱 I’m currently learning **React, Node.js, Express.js and MongoDB**
 
-- 💬 Ask me about **JavaScript, React, React Native**
+- 💬 Ask me about **JavaScript, React, Node.js, Express.js and MongoDB**
 
 - 📫 How to reach me **er.saini.yash@gmail.com**
 
