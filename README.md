@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Saini</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 
-- 🔭 I’m currently working on [blog-app](https://blog-app-iota-woad-74.vercel.app/)
+- 🔭 I’m currently working on [chatify](https://chatify-kma1r.sevalla.app/)
 
 - 🌱 I’m currently learning **React, Node.js, Express.js and MongoDB**
 
