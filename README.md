@@ -107,10 +107,11 @@ const yash = {
 
 <div align="center">
 
-<!-- Stats card via statsig alternative -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashsaini15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&rank_icon=github"/>
-<!-- Top langs via alternate deployment -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsaini15&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+| Metric | Badge |
+|--------|-------|
+| Total Repos | ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/yashsaini15&query=$.public_repos&label=Public%20Repos&color=58A6FF&style=for-the-badge&logo=github) |
+| Followers | ![Followers](https://img.shields.io/github/followers/yashsaini15?label=Followers&style=for-the-badge&color=58A6FF&logo=github) |
+| Stars Earned | ![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:yashsaini15&query=$.total_count&label=Repositories&color=58A6FF&style=for-the-badge&logo=github) |
 
 </div>
 
@@ -118,16 +119,17 @@ const yash = {
   <img src="https://streak-stats.demolab.com/?user=yashsaini15&theme=tokyonight&hide_border=true&background=0d1117&fire=DD2727&ring=58A6FF&currStreakLabel=58A6FF" alt="streak stats"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashsaini15&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="activity graph"/>
-</div>
-
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashsaini15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4" alt="trophies"/>
+
+![](https://img.shields.io/badge/Experience-3%20Years-58A6FF?style=for-the-badge&logo=star&logoColor=white)
+![](https://img.shields.io/badge/Stack-MERN-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Focus-React%20%2B%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Status-Open%20to%20Work-00b300?style=for-the-badge&logo=checkmarx&logoColor=white)
+
 </div>
 
 ---
