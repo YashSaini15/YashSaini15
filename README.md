@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [chatify](https://chatify-kma1r.sevalla.app/)
 
-- 🌱 I’m currently learning **React, Node.js, Express.js and MongoDB**
+- 🌱 I’m currently learning **React, Next.js, Node.js, Express.js and MongoDB**
 
-- 💬 Ask me about **JavaScript, React, Node.js, Express.js and MongoDB**
+- 💬 Ask me about **JavaScript, React, Next.js, Node.js, Express.js and MongoDB**
 
 - 📫 How to reach me **er.saini.yash@gmail.com**
 
