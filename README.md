@@ -32,7 +32,7 @@ const yash = {
   location:    "India 🇮🇳",
   currentWork: "Chatify — Real-time Chat Application",
   focus:       ["React", "Next.js", "Node.js", "Express", "MongoDB"],
-  lookingFor:  "Opportunities at MNCs & product-based companies 🚀",
+  lookingFor:  "Open to all exciting opportunities 🚀",
   funFact:     "I debug with console.log and I'm not sorry 😄",
 };
 ```
@@ -134,7 +134,7 @@ const yash = {
 
 <div align="center">
 
-I'm actively looking for exciting opportunities at **product-based companies and MNCs**. If you're hiring or just want to connect — let's talk!
+I'm actively looking for exciting opportunities. If you're hiring or just want to connect — let's talk!
 
 <a href="https://linkedin.com/in/sainiyash">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
