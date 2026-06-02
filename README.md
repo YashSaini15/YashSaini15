@@ -113,11 +113,11 @@ const yash = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashsaini15&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=yashsaini15&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashsaini15&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="95%" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashsaini15&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="activity graph"/>
 </div>
 
 ---
@@ -125,7 +125,7 @@ const yash = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashsaini15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yashsaini15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
 </div>
 
 ---
