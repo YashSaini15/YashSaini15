@@ -107,8 +107,8 @@ const yash = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashsaini15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsaini15&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashsaini15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsaini15&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
 
 </div>
 
@@ -125,7 +125,7 @@ const yash = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashsaini15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yashsaini15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="trophies"/>
 </div>
 
 ---
