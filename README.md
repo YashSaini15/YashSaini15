@@ -107,13 +107,15 @@ const yash = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashsaini15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsaini15&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
+<!-- Stats card via statsig alternative -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashsaini15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&rank_icon=github"/>
+<!-- Top langs via alternate deployment -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsaini15&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=yashsaini15&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=yashsaini15&theme=tokyonight&hide_border=true&background=0d1117&fire=DD2727&ring=58A6FF&currStreakLabel=58A6FF" alt="streak stats"/>
 </div>
 
 <div align="center">
@@ -125,7 +127,7 @@ const yash = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashsaini15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yashsaini15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4" alt="trophies"/>
 </div>
 
 ---
